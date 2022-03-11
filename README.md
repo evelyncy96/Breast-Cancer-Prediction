@@ -8,5 +8,6 @@ The best model is SVM with the best parameter C = 100, gamma = 0.0001, kernal = 
 
 In addition, I present the drew the ROC curve and lift curve as below. The ROC curve is pretty close to the top-left corner, showing the performance is not bad.
 
-For more information, please refer to the original website: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+For more information, please refer to the folowing website:
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
